@@ -1,0 +1,5 @@
+Motor	KEYWORD1
+MotorLib	KEYWORD1
+setMotorSpeed	KEYWORD2
+brakeMotor	KEYWORD2
+coastMotor	KEYWORD2
